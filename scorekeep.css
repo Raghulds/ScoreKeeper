@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	background-color: lightslategray;
+	margin-top: 30px;
+}
+h1 {
+	color: maroon;
+	font-weight: bold;
+}
+.winner {
+	color: maroon;
+	border: 2px solid green;
+}
